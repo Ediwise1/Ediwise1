@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ediwise1
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning html and css
-- 💞️ I’m looking to collaborate with other web developers 
+- 💞️ I’m looking to collaborate with other web developers @DavidOneVoice
 - 📫 How to reach me
 - https://wa.me/qr/J5NNMZHNJAPND1
 - 😄 Pronouns: Ediwise
